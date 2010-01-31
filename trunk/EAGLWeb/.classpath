@@ -1,12 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JDK 1.6">
 		<attributes>
 			<attribute name="owner.project.facets" value="jst.java"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EAGLLib"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-antlr.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-apache-bcel.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-apache-bsf.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-apache-log4j.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-apache-oro.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-apache-regexp.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-apache-resolver.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-commons-logging.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-commons-net.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-jai.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-javamail.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-jdepend.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-jmf.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-jsch.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-junit.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-netrexx.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-nodeps.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-starteam.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-stylebook.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-swing.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-testutil.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-trax.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant-weblogic.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/ant.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.aop-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.asm-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.aspects-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.beans-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.context-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.context.support-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.core-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.expression-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.instrument-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.instrument.tomcat-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.jdbc-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.jms-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.orm-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.oxm-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.spring-library-3.0.0.RELEASE.libd"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.test-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.transaction-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.web-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.web.portlet-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.web.servlet-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/org.springframework.web.struts-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/commons-el.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/commons-pool-1.2.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/jasper-compiler.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/jasper-runtime.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/naming-common.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/naming-factory.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/naming-java.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/naming-resources.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/EAGLLib/cglib-2.2.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
